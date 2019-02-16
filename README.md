@@ -25,12 +25,13 @@ public class Bienvenido {
 Requisitos
 ------------
 
-Ejemplos creados en NetBeans, por lo que si quiere probar tal como esta necesitara 
- * NetBeans
- *Y tener instalado el JDK de java
+Ejemplos creados en NetBeans, por lo que si quiere probar tal como esta necesitara.
+ * NetBeans.
+ * Tener instalado el JDK de java.
+
 Sin embargo, los ejemplos están pensados para que no se tenga que utilizar un IDE especifico, así que en todo caso el único requisito indispensable es instalar el JDK de java y pude probar el código en otros IDEs o editores y solo configurar la herramienta que utilice para complicar el código java, a continuación, unos ejemplos de editores:
- * Visual Studio Code
- * Sublime Text
+ * Visual Studio Code.
+ * Sublime Text.
 
 ## Lista de ejercicios de Java
 
