@@ -1,9 +1,12 @@
 # Ejercicios Java 
 Este repositorio contiene todas las practicas del curso “Java Masterclass: De cero a Heroe en tiempo record”, el cual es un curso completo de java, en el cual se adquieren conocimientos básicos de java hasta avanzado/Empresarial (Java EE o Jakarta EE).
+
 Considero este curso muy completo ya que es 100% práctico, pero a la ves 100% teórico, esto ya que cada concepto de java es explicado y llevado a la práctica mediante un ejemplo o dos, dependiendo que tan extenso sea el tema.
+
 En este curso se aprende desde la las bases como: variables, operadores, ciclos, métodos y constructores, uso de palabras reservadas, uso de clases, etc., hasta niveles avanzadas con el manejo de interfaces de escritorio y JSP con Bootstrap 4.
 
-Captura de pantalla del curso en udemy.com 
+Captura de pantalla del curso en udemy.com
+
 ![](CursoJava.png)
 
 ## Java
@@ -16,7 +19,7 @@ public class Bienvenido {
 ```
 ---
 
-## Requisitos
+## Descripción
 >A continuación, se muestra un índice del orden en el que pueden ir revisado los ejemplos comenzando desde lo básico a avanzado, en los casos donde el tema sea diferente al nombre de la carpeta se un poco diferente al tema se colocara entre paréntesis el nombre de la carpeta o ejemplo. Por otro lado, solo podrá encontrar los ejemplos con código como referencia, ya que no están las diapositivas de la teoría del curso.
 
 Requisitos
