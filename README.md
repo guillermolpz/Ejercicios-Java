@@ -65,6 +65,9 @@ Sin embargo, los ejemplos están pensados para que no se tenga que utilizar un I
 20. BLUEJ, esta e suna herramient apara visualizar y comprender un poco mas la parte de programacion orientada a objetos (POO).
 21. Manejo de arreglos en java (EjemoploArreglos)
 22. Manejo de matrices en Java (EjemploMatrices)
+23. Diseño de clases en java (Ventas)
+24. Lavoratorio final de fundamentos de java ...
+
 
 
 
